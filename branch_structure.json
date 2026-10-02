@@ -1,0 +1,21 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "fix/issue-530-fix-stellar-remove-the-unused-fee-buffer",
+    "fix/issue-550-test-stellar-cover-budgetfee-and",
+    "main",
+    "origin"
+  ],
+  "parent": {
+    "fix/issue-530-fix-stellar-remove-the-unused-fee-buffer": "main",
+    "fix/issue-550-test-stellar-cover-budgetfee-and": "main",
+    "main": null,
+    "origin": "main"
+  },
+  "order": [
+    "main",
+    "fix/issue-530-fix-stellar-remove-the-unused-fee-buffer",
+    "fix/issue-550-test-stellar-cover-budgetfee-and",
+    "origin"
+  ]
+}
